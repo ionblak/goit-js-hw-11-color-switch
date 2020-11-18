@@ -1,0 +1,1 @@
+.button-section{display:flex;justify-content:center}.button{width:100px;height:30px;background-color:#9acd32;color:#000;border:none;border-radius:25px;margin-right:15px;transition:all .75s cubic-bezier(.075,.82,.165,1)}.button:focus,.button:hover{background-color:#3b4d24;color:bisque;outline:none}.button-section :last-child{margin-right:0}
